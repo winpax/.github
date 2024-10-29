@@ -11,7 +11,7 @@ Feel free to [ask some questions](https://github.com/orgs/winpax/discussions) ab
 
 Please do! This is a lot of work for just me, and I'm looking for people who are interested in helping out!
 
-If you're interested in contributing, please make sure you are okay with the [Contributor Covenant Code of Conduct](CONTRIBUTING.md)
+If you're interested in contributing, please make sure you are okay with the [Contributor Covenant Code of Conduct](/CODE_OF_CONDUCT.md)
 (I'm not working with you if you're not).
 
 Then open a [discussion](https://github.com/orgs/winpax/discussions) and let me know you're interested!
@@ -21,7 +21,7 @@ Then open a [discussion](https://github.com/orgs/winpax/discussions) and let me 
 That's okay!
 
 Feel free to fork any of our public repositories, make some changes, and open a PR.
-(You still need to read the [Contributor Covenant Code of Conduct](CONTRIBUTING.md) though...)
+(You still need to read the [Contributor Covenant Code of Conduct](/CODE_OF_CONDUCT.md) though...)
 
 ```
 Thanks for reading 🥰
