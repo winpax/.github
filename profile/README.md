@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am 💖 Packages 💖 (just a girl at the moment), creating blazing fast, lightweight,
+I am 💖 Packages 💖 (just one girl at the moment), creating blazing fast, lightweight,
 and easy-to-use package management solutions for the Windows platform, and the broader Rust ecosystem.
 
 ## Have a chat with us!
