@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![Follow us on Bluesky](https://img.shields.io/badge/Follow%20Us%20On%20Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/bite.cordor.dev)
+
 I am 💖 Packages 💖 (just one girl at the moment), creating blazing fast, lightweight,
 and easy-to-use package management solutions for the Windows platform, and the broader Rust ecosystem.
 
