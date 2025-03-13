@@ -2,8 +2,11 @@
 
 [![Follow us on Bluesky](https://img.shields.io/badge/Follow%20Us%20On%20Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/bite.cordor.dev)
 
-We are Bite (just one girl at the moment), creating blazing fast, lightweight,
+We are winpax (just one girl at the moment), creating blazing fast, lightweight,
 and easy-to-use package management solutions for the Windows platform, and the broader Rust ecosystem.
+
+> [!NOTE]
+> [LOOKING FOR MAINTAINERS](https://github.com/orgs/winpax/discussions/958). If you are interested please get in touch.
 
 ## Have a chat with us!
 
